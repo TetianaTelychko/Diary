@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Database/database.db</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>Images/folder circle color1.png</file>
+        <file>Images/folder circle color2.png</file>
+        <file>Images/folder circle color3.png</file>
+        <file>Images/folder circle color4.png</file>
+        <file>Images/folder circle color5.png</file>
+        <file>Images/folder circle color6.png</file>
+        <file>Images/folder color1.png</file>
+        <file>Images/folder color2.png</file>
+        <file>Images/folder color3.png</file>
+        <file>Images/folder color4.png</file>
+        <file>Images/folder color5.png</file>
+        <file>Images/folder color6.png</file>
+        <file>Images/folder open color1.png</file>
+        <file>Images/folder open color2.png</file>
+        <file>Images/folder open color3.png</file>
+        <file>Images/folder open color4.png</file>
+        <file>Images/folder open color5.png</file>
+        <file>Images/folder open color6.png</file>
+    </qresource>
+</RCC>
